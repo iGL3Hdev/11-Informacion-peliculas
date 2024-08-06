@@ -1,4 +1,3 @@
-//Enter api key that recieved on your email here
 
-key = "Your Api Key";
 
+key = "7f9a3b82";
